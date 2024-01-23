@@ -5,9 +5,8 @@
 To set up your project, follow these steps after download and extract `fos_cygwin.rar`:
 
 1. Place `fos_cygwin` directly in `C:/`.
-2. Open the `.vscode` folder.
-3. In each file, update all occurrences of '2023' to the current year.
-4. Run using `RunVSCode.bat`.
+2. Click on `RunVSCode.bat`.
+3. Press Ctrl+Shift+P, select "Run Tasks" and choose either "Run FOS" or "Run FOS-qemu."
 
 ## Running FOS on Linux
 
