@@ -6,7 +6,7 @@ To set up your project, follow these steps after download and extract `fos_cygwi
 
 1. Place `fos_cygwin` directly in `C:/`.
 2. Click on `RunVSCode.bat`.
-3. Press Ctrl+Shift+P, select "Run Tasks" and choose either "Run FOS" or "Run FOS-qemu."
+3. Press Ctrl+Shift+P, select "Run Tasks" and choose either "Run FOS" or "Run FOS-qemu".
 
 ## Running FOS on Linux
 
